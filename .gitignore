@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Dependency directories
+.DS_Store
+.env
+
+# Logs
+logs/
+*.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+
+# System files
+Thumbs.db
+*.DS_Store
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# Cache files
+*.cache
+.cache/
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Spotify API keys (als je ze in een .env bestand opslaat)
+.env
+
+# React specific
+*.env.local
+*.env.development
+*.env.production
